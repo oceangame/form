@@ -83,6 +83,7 @@ h1{
 .footer h2{
     font-size: 16pt;
 }
+/**for mobile toggle**/
 @media only screen and (max-width: 600px) {
     body {
     margin: 0;
@@ -95,7 +96,7 @@ h1{
     
 .login-box{
     width: 80%;
-    height: 80%;
+    height: 70%;
     background: rgba(0, 0, 0, 0.5);
     color: #fff;
     top: 50%;
